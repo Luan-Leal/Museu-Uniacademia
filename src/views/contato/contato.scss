@@ -1,0 +1,19 @@
+.contatoPage{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(26, 154, 214, 255);
+    
+    section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        width: 85vw;
+        background: rgb(134, 115, 115);
+      
+         
+      
+    }
+}
